@@ -1,5 +1,5 @@
 from data_sources.igdb.authentication import AuthIGDB
-from igdb.wrapper import IGDBWrapper
+import requests
 
 
 def main():
@@ -13,11 +13,12 @@ def main():
     from igdb.igdbapi_pb2 import GameResult
 
     byte_array = wrapper.api_request(
-        "games.pb",  # Note the '.pb' suffix at the endpoint
-        "fields id, name; offset 0; where platforms=48;",
+        "companies.pb",  # Note the '.pb' suffix at the endpoint
+        "fields name, parent, start_date;where published.first_release_date >= 970397863;",
     )
     games_message = GameResult()
     games_message.ParseFromString(byte_array)
+    print(games_message.ListFields)
 
 
 if __name__ == "__main__":

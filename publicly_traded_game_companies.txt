@@ -1,0 +1,70 @@
+Electronic Arts, EA, 1
+Square Soft, TYO:9620, 250
+Enix, TYO:9684, 1854
+Square Enix, TYO:9684, 26
+Take-Two Interactive Software, Nasdaq: TTWO, 139
+Capcom, TYO:9697, 37
+Ubisoft, UBI, 104
+Sony, TYO: 6758, [45, 10100, 907, 13634]
+Funcom, Funcom
+Activision Blizzard, ATVI
+Microsoft, MSFT
+Nintendo, TYO:7974
+Embracer Group, EMBRAC B
+THQ, THQI
+SegaSammy, SGAMY
+Sega Corporation, SEGNY/ TYO:7964
+Codemasters, LON: CDM
+Konami, TYO:9766
+Roblox, RBLX
+Hasbro, HAS
+Atari SA/ Infogrames, ALATA
+Namco, TYO:9766/NAMCY
+Bandai, TYO:7967
+Bandai Namco, TYO:7832
+NCSoft, KRX: 036570
+Acclaim, AKLM
+Remedy, HE:REMEDY
+Koei, TYO:3256
+Tecmo, TYO:9650
+Koei Tecmo, TYO:3635
+Focus Entertainment, ALFOC
+Devolver Digital, LON:DEVO
+Kadokawa, TYO: 9468
+CD Project, CDR
+Hudson Soft, TYO:
+Nacon, NACON, 9207
+Nexon, TYO:3659.T
+Krafton, KRX:259960
+Paradox Interactive, ST:PDX
+GungHo Online Entertainment, TYO:3765
+Neowiz Games, 095660.KQ
+Team17, LSE:TM17
+PlayWay, PLW.WA
+11 bit studios, 11B.WA
+Digital Bros, DIB.MI
+Happinet, 7552.T
+Marvelous, TYO:7844
+People Can Fly, PCF.WA
+Frontier Developments, LSE:FDEV
+Enad Global 7, ST:EG7
+Furyu, TYO:6238
+CI Games, CI7.F
+Bloober team, 6BO.F
+tinyBuild, 8z3.F
+Don'tnod Entertainment, ALDE, PA
+Thunderful Group, THUNDR.ST
+Yuke's, TYO:4334
+Playside Studios, PLY.AX
+Starbreeze, STAR-B.ST
+Nihon Falcom, TYO:3723
+Imagineer, TYO:4644
+Zordix, ZORDIX-B.ST
+Big Cheese Studio, BCS.WA
+Nippon Ichi Software, TYO:3851
+Tose Software, TYO:4728
+Artifex Mundi, ART.WA
+Silicon Studio, TYO:3907
+Forever Entertainment, 8FE.SG/FRA
+All in games, ALG.WA
+Games Operators, GOP.WA

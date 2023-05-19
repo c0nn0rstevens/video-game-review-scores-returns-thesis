@@ -1,0 +1,23 @@
+fields 
+name,
+version_parent,
+first_release_date,
+slug,
+involved_companies.company.name,
+genres,
+game_modes,
+age_ratings,
+rating,
+rating_count,
+aggregated_rating,
+aggregated_rating_count,
+total_rating,
+follows;
+where
+first_release_date > 967787907
+&
+involved_companies.company =(112)
+&
+category = 0
+&
+(involved_companies.publisher = true | involved_companies.developer = true);

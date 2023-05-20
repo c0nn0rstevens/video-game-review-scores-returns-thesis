@@ -1,0 +1,792 @@
+[
+  {
+    "id": 217,
+    "age_ratings": [
+      {
+        "id": 56705,
+        "rating": 8
+      },
+      {
+        "id": 56706,
+        "rating": 2
+      },
+      {
+        "id": 56707,
+        "rating": 13
+      },
+      {
+        "id": 56708,
+        "rating": 34
+      }
+    ],
+    "aggregated_rating": 72.5,
+    "aggregated_rating_count": 4,
+    "first_release_date": 1222300800,
+    "follows": 4,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1162,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 1163,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sonic Chronicles: The Dark Brotherhood",
+    "rating": 63.3829474054657,
+    "rating_count": 27,
+    "slug": "sonic-chronicles-the-dark-brotherhood",
+    "total_rating": 67.94147370273285
+  },
+  {
+    "id": 432,
+    "age_ratings": [
+      {
+        "id": 20713,
+        "rating": 4
+      },
+      {
+        "id": 63768,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 8,
+    "first_release_date": 1300147200,
+    "follows": 61,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 227,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 228,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 96361,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Total War: Shogun 2",
+    "rating": 84.835268731587,
+    "rating_count": 153,
+    "slug": "total-war-shogun-2",
+    "total_rating": 86.4176343657935
+  },
+  {
+    "id": 438,
+    "age_ratings": [
+      {
+        "id": 20518,
+        "rating": 10
+      },
+      {
+        "id": 20519,
+        "rating": 4
+      }
+    ],
+    "aggregated_rating": 91.0,
+    "aggregated_rating_count": 3,
+    "first_release_date": 1095811200,
+    "follows": 85,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1111,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 1113,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1114,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 60090,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rome: Total War",
+    "rating": 82.28144632298161,
+    "rating_count": 246,
+    "slug": "rome-total-war",
+    "total_rating": 86.6407231614908
+  },
+  {
+    "id": 439,
+    "age_ratings": [
+      {
+        "id": 18201,
+        "rating": 5
+      },
+      {
+        "id": 20530,
+        "rating": 11
+      }
+    ],
+    "aggregated_rating": 77.5,
+    "aggregated_rating_count": 2,
+    "first_release_date": 1128643200,
+    "follows": 2,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 495,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 496,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Spartan: Total Warrior",
+    "rating": 65.882985738673,
+    "rating_count": 14,
+    "slug": "spartan-total-warrior",
+    "total_rating": 71.6914928693365
+  },
+  {
+    "id": 440,
+    "age_ratings": [
+      {
+        "id": 32487,
+        "rating": 4
+      },
+      {
+        "id": 63133,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 4,
+    "first_release_date": 1163116800,
+    "follows": 60,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 811,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 812,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 96749,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Medieval II: Total War",
+    "rating": 86.49615339271,
+    "rating_count": 182,
+    "slug": "medieval-ii-total-war",
+    "total_rating": 88.248076696355
+  },
+  {
+    "id": 441,
+    "age_ratings": [
+      {
+        "id": 63134,
+        "rating": 10
+      },
+      {
+        "id": 117208,
+        "rating": 4
+      }
+    ],
+    "aggregated_rating": 89.8333333333333,
+    "aggregated_rating_count": 7,
+    "first_release_date": 1236038400,
+    "follows": 30,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 594,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 595,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 97215,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Empire: Total War",
+    "rating": 78.0536791182202,
+    "rating_count": 121,
+    "slug": "empire-total-war",
+    "total_rating": 83.94350622577676
+  },
+  {
+    "id": 442,
+    "age_ratings": [
+      {
+        "id": 20546,
+        "rating": 4
+      },
+      {
+        "id": 63132,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 83.3333333333333,
+    "aggregated_rating_count": 4,
+    "first_release_date": 1266883200,
+    "follows": 17,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 940,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 941,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 942,
+        "company": {
+          "id": 238,
+          "name": "Typhoon Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 60134,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Napoleon: Total War",
+    "rating": 76.770999277193,
+    "rating_count": 67,
+    "slug": "napoleon-total-war",
+    "total_rating": 80.05216630526314
+  },
+  {
+    "id": 506,
+    "age_ratings": [
+      {
+        "id": 28374,
+        "rating": 8
+      },
+      {
+        "id": 29431,
+        "rating": 2
+      },
+      {
+        "id": 90822,
+        "rating": 28
+      },
+      {
+        "id": 91467,
+        "rating": 23
+      }
+    ],
+    "aggregated_rating": 75.1,
+    "aggregated_rating_count": 13,
+    "first_release_date": 1320105600,
+    "follows": 38,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105789,
+        "company": {
+          "id": 395,
+          "name": "Sonic Team"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 105790,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 105791,
+        "company": {
+          "id": 2943,
+          "name": "Devil\u0027s Details"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Sonic Generations",
+    "rating": 77.3351849716776,
+    "rating_count": 183,
+    "slug": "sonic-generations",
+    "total_rating": 76.2175924858388
+  },
+  {
+    "id": 513,
+    "age_ratings": [
+      {
+        "id": 30278,
+        "rating": 11
+      },
+      {
+        "id": 56328,
+        "rating": 4
+      }
+    ],
+    "aggregated_rating": 76.6666666666667,
+    "aggregated_rating_count": 3,
+    "first_release_date": 1341360000,
+    "follows": 18,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104430,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 104431,
+        "company": {
+          "id": 24354,
+          "name": "Online Entertainment R\u0026D"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 105226,
+        "company": {
+          "id": 6122,
+          "name": "AsiaSoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 105227,
+        "company": {
+          "id": 16660,
+          "name": "Lionbridge Technologies"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Phantasy Star Online 2",
+    "rating": 71.486840813317,
+    "rating_count": 17,
+    "slug": "phantasy-star-online-2",
+    "total_rating": 74.07675373999186
+  },
+  {
+    "id": 560,
+    "age_ratings": [
+      {
+        "id": 34071,
+        "rating": 11
+      },
+      {
+        "id": 34072,
+        "rating": 5
+      },
+      {
+        "id": 74254,
+        "rating": 33
+      },
+      {
+        "id": 108863,
+        "rating": 36
+      },
+      {
+        "id": 108864,
+        "rating": 16
+      }
+    ],
+    "aggregated_rating": 74.0,
+    "aggregated_rating_count": 6,
+    "first_release_date": 1266278400,
+    "follows": 34,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1357,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 1358,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Aliens vs. Predator",
+    "rating": 69.1097887988965,
+    "rating_count": 125,
+    "slug": "aliens-vs-predator",
+    "total_rating": 71.55489439944824
+  }
+]

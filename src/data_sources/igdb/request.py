@@ -37,6 +37,10 @@ class Request:
             # Offset by request size to avoid duplicates in responses.
             offset += 500
 
+    def flatten_response(self):
+        # Flatten json response into dataframe.
+        self.request_dataframe = pd.json_normalize(self.response_list)
+
     def make_dataframe(self, cols):
         # First make a dataframe using the first dictionary in the list.
         self.request_dataframe = pd.DataFrame(columns=cols)

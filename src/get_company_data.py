@@ -19,7 +19,9 @@ headers = {
 }
 
 # Get apicalypse query from txt file.
-with open("./src/companies_query.txt", "r") as file:
+with open(
+    "./src/data_sources/igdb/apicalypse_queries/companies_query.txt", "r"
+) as file:
     companies_payload = file.read()
 
 # Instantiate request object for companies.

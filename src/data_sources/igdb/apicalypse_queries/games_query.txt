@@ -1,4 +1,5 @@
-fields 
+fields
+id,
 name,
 version_parent,
 first_release_date,
@@ -15,9 +16,13 @@ rating_count,
 aggregated_rating,
 aggregated_rating_count,
 total_rating,
-follows;
+follows,
+platforms.name,
+platforms.abbreviation;
 where
-first_release_date > 967787907
+first_release_date > 1443650400
+&
+first_release_date < 1682805600
 &
 involved_companies.company =(
   112,

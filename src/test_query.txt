@@ -1,9 +1,0 @@
-fields 
-name,
-parent,
-start_date,
-change_date,
-changed_company_id;
-where 
-published.first_release_date > 1222300800;
-limit 500;
